@@ -1,0 +1,33 @@
+🤓 gpt4o_math_vs_ground_truth_with_emojis.txt: 50.00% (50/100 correct)
+
+[NONE] gpt4o_math_vs_ground_truth.txt: 47.00% (47/100 correct)
+[NONE] gpt4o_math_vs_ground_truth.txt: 47.00% (47/100 correct)
+
+🇺🇸 gpt4o_math_vs_ground_truth_with_american.txt: 47.00% (47/100 correct)
+
+🪤gpt4o_math_vs_ground_truth_mouse_trap.txt: 46.00% (46/100 correct)
+
+🧠🤓/🎓 gpt4o_math_vs_ground_truth_brain.txt: 46.00% (46/100 correct)
+
+🧮/🎓 gpt4o_math_vs_ground_truth_abacus.txt: 45.00% (45/100 correct)
+🧮gpt4o_math_vs_ground_truth_abacus_fixed.txt: 46.00% (46/100 correct)
+
+💅🤪/🎓 gpt4o_math_vs_ground_truth_silly.txt: 48.00% (48/100 correct)
+💅🤪 gpt4o_math_vs_ground_truth_silly_fixed.txt: 51.00% (51/100 correct)
+
+🇰🇭/🎓 gpt4o_math_vs_ground_truth_lowest.txt: 48.00% (48/100 correct)
+🇰🇭 gpt4o_math_vs_ground_truth_lowest_fixed.txt: 47.00% (47/100 correct)
+
+🇨🇳/🎓 gpt4o_math_vs_ground_truth_highest.txt: 44.00% (44/100 correct)
+🇨🇳 gpt4o_math_vs_ground_truth_highest_fixed.txt: 49.00% (49/100 correct)
+
+🤡/🎓 gpt4o_math_vs_ground_truth_clown.txt: 46.00% (46/100 correct)
+🤡 gpt4o_math_vs_ground_truth_clown_fixed.txt: 51.00% (51/100 correct)
+
+🧠❌/🎓 gpt4o_math_vs_ground_truth_no_brain.txt: 53.00% (53/100 correct)
+🧠❌ gpt4o_math_vs_ground_truth_no_brain_fixed.txt: 49.00% (49/100 correct)
+
+🐌/🎓 gpt4o_math_vs_ground_truth_snail.txt: 44.00% (44/100 correct)
+🐌 gpt4o_math_vs_ground_truth_snail_fixed.txt: 47.00% (47/100 correct)
+
+🇸🇬 gpt4o_math_vs_ground_truth_singapore_fixed.txt: 48.00% (48/100 correct)
