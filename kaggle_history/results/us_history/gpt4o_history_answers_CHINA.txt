@@ -1,0 +1,882 @@
+Question 1:
+The Progressive movement could most accurately be described as a
+Prompt Sent:
+🇨🇳 The Progressive movement could most accurately be described as a 🇨🇳
+A. working-class response to low wages and long hours.
+B. conservative reaction to immigration.
+C. middle-class response to urbanization and industrialization.
+D. rural response to falling farm prices and powerful banks.
+E. Southern response to the power of Northern politicians.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 2:
+Theodore Roosevelt used his position as president to
+Prompt Sent:
+🇨🇳 Theodore Roosevelt used his position as president to 🇨🇳
+A. push for measures to protect the environment.
+B. advance a socialist agenda.
+C. reform the banking system.
+D. convince Americans to join World War I.
+E. argue for a strict interpretation of the Constitution.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 3:
+The passage of the Federal Reserve Act was important because it
+Prompt Sent:
+🇨🇳 The passage of the Federal Reserve Act was important because it 🇨🇳
+A. made up for revenue lost by the Underwood Tariff.
+B. centralized financial power in one city—New York.
+C. allowed the president to set interest rates.
+D. created a mechanism to regulate the money supply.
+E. nationalized banks in the United States.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 4:
+All of the following led to World War I EXCEPT
+Prompt Sent:
+🇨🇳 All of the following led to World War I EXCEPT 🇨🇳
+A. the rise of capitalism.
+B. the formation of alliances.
+C. imperialism.
+D. the desire for self-determination among nations.
+E. extreme nationalism.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 5:
+The immediate cause of the United States's entrance into World War I was the
+Prompt Sent:
+🇨🇳 The immediate cause of the United States's entrance into World War I was the 🇨🇳
+A. assassination of Archduke Franz Ferdinand of Austria.
+B. announcement by Germany of the use of unrestricted submarine warfare.
+C. sinking of the Lusitania.
+D. Zimmermann Note.
+E. attack on Pearl Harbor, Hawaii.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. announcement by Germany of the use of unrestricted submarine warfare.
+============================================================
+
+Question 6:
+Woodrow Wilson's Fourteen Points, written in 1918, aimed to
+Prompt Sent:
+🇨🇳 Woodrow Wilson's Fourteen Points, written in 1918, aimed to 🇨🇳
+A. guarantee that all people live under a democracy.
+B. spread U.S. influence in the world.
+C. shift U.S. policy from isolation to involvement.
+D. establish a peacekeeping force in Europe.
+E. prevent future wars by rectifying the causes of World War I.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 7:
+Henry Cabot Lodge objected to the League of Nations on the grounds that it
+Prompt Sent:
+🇨🇳 Henry Cabot Lodge objected to the League of Nations on the grounds that it 🇨🇳
+A. violated the Constitution.
+B. might lead the United States into future wars.
+C. was too idealistic to be workable.
+D. was to be located outside of the United States.
+E. violated the principals of self-determination.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. might lead the United States into future wars.
+============================================================
+
+Question 8:
+The National Origins Act of 1924
+Prompt Sent:
+🇨🇳 The National Origins Act of 1924 🇨🇳
+A. favored immigration from all parts of Europe because America needed European workers.
+B. greatly reduced the number of immigrants from Eastern and Southern Europe.
+C. favored immigration from Asia and Africa because the immigrants were likely to work for low wages.
+D. had little impact on the flow of immigrants into the United States.
+E. led to an immigration movement of U. S. residents back to Europe.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 9:
+This African American leader thought the way for African Americans to improve their position in American society was to gain vocational training to obtain jobs in agriculture, craft work, and manufacturing.
+Prompt Sent:
+🇨🇳 This African American leader thought the way for African Americans to improve their position in American society was to gain vocational training to obtain jobs in agriculture, craft work, and manufacturing. 🇨🇳
+A. Booker T. Washington
+B. W. E. DuBois
+C. Marcus Garvey
+D. Malcolm X
+E. Martin Luther King Jr.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. Booker T. Washington
+============================================================
+
+Question 10:
+Margaret Sanger is best known for
+Prompt Sent:
+🇨🇳 Margaret Sanger is best known for 🇨🇳
+A. being the first female cabinet member in a presidential administration.
+B. devoting her adult life to pushing for women to have the right to vote.
+C. advocating prohibition.
+D. singing jazz songs.
+E. opening the first birth control clinic in the United States.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 11:
+Which of the following was not a cause of the Great Migration?
+Prompt Sent:
+🇨🇳 Which of the following was not a cause of the Great Migration? 🇨🇳
+A. The need for workers in munitions plants during World War I
+B. Lynchings in Southern towns
+C. Jim Crow laws
+D. The Great Depression
+E. The failure of cotton crops in the 1910s
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. The Great Depression
+============================================================
+
+Question 12:
+A major cause of the Depression of 1929 was
+Prompt Sent:
+🇨🇳 A major cause of the Depression of 1929 was 🇨🇳
+A. too few dollars in circulation.
+B. overproduction and overconsumption of goods, creating a shortage of goods.
+C. overproduction and underconsumption of goods, causing the prices of goods to decrease.
+D. an increase in the number of exports.
+E. low tariffs.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 13:
+When Herbert Hoover was elected president in 1928, the U.S. economy appeared to be in a
+Prompt Sent:
+🇨🇳 When Herbert Hoover was elected president in 1928, the U.S. economy appeared to be in a 🇨🇳
+A. depression.
+B. recession.
+C. period of prosperity.
+D. recovery.
+E. bank crisis.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. period of prosperity.
+============================================================
+
+Question 14:
+FDR and Herbert Hoover differed in that
+Prompt Sent:
+🇨🇳 FDR and Herbert Hoover differed in that 🇨🇳
+A. FDR believed in rugged individualism, while Herbert Hoover believed that the individual was capable of raising himself/herself above the Depression.
+B. Herbert Hoover believed that the government and the people had a duty to help those suffering from the depression, while FDR believed in laissez-faire.
+C. FDR supported the idea of "priming the pump" with government money to end the Depression, while Herbert Hoover believed in direct relief to the people suffering from the Depression.
+D. Herbert Hoover believed in rugged individualism, while FDR believed in "priming the pump" with government funds to end the Depression.
+E. FDR was willing to take control of legislation to end the Depression even without the support of Congress, while Herbert Hoover believed in expanding the powers of the presidency to deal with the Depression.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 15:
+Franklin D. Roosevelt's administration began with
+Prompt Sent:
+🇨🇳 Franklin D. Roosevelt's administration began with 🇨🇳
+A. a court-packing scheme.
+B. an end to speculation in stocks and the stock market.
+C. a decrease in unemployment.
+D. the establishment of the Social Security system.
+E. a bank holiday.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 16:
+Which of the following organizations, born in the 1930s, focused on organizing unskilled workers?
+Prompt Sent:
+🇨🇳 Which of the following organizations, born in the 1930s, focused on organizing unskilled workers? 🇨🇳
+A. Congress of Industrial Organizations
+B. Industrial Workers of the World
+C. Knights of Labor
+D. American Federation of Labor
+E. Communist Party
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. Congress of Industrial Organizations
+============================================================
+
+Question 17:
+Pick the answer that correctly matches the artist and the cultural product he or she created: X)    John Steinbeck Y)    Frank Capra Z)    Margaret Mitchell 1)    Mr. Smith Goes to Washington 2)    The Good Earth 3)    The Grapes of Wrath 4)    Gone With the Wind 5)    Waiting for Lefty Answer choices:
+Prompt Sent:
+🇨🇳 Pick the answer that correctly matches the artist and the cultural product he or she created: X)    John Steinbeck Y)    Frank Capra Z)    Margaret Mitchell 1)    Mr. Smith Goes to Washington 2)    The Good Earth 3)    The Grapes of Wrath 4)    Gone With the Wind 5)    Waiting for Lefty Answer choices: 🇨🇳
+A. X-2; Y-4; Z-5
+B. X-3; Y-2; Z-4
+C. X-5; Y-2; Z-2
+D. X-3; Y-4; Z-1
+E. X-3; Y-1; Z-4
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. X-3; Y-1; Z-4
+============================================================
+
+Question 18:
+Sit-down strikes proved to be a successful strategy for some unions in the 1930s primarily because they
+Prompt Sent:
+🇨🇳 Sit-down strikes proved to be a successful strategy for some unions in the 1930s primarily because they 🇨🇳
+A. were enthusiastically supported by the Roosevelt administration.
+B. prevented damage to company property.
+C. prevented the factory owners from carrying on production with strikebreakers.
+D. tended to gain public sympathy.
+E. were protected by federal legislation.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 19:
+The National Industrial Recovery Act and the Wagner Act both dealt with the issue of
+Prompt Sent:
+🇨🇳 The National Industrial Recovery Act and the Wagner Act both dealt with the issue of 🇨🇳
+A. the government's right to set price controls.
+B. employers' rights to exclude women from their workforce.
+C. workers' rights to organize unions.
+D. states' rights to regulate interstate trade.
+E. corporations' rights to cooperate in setting industrywide standards.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. workers' rights to organize unions.
+============================================================
+
+Question 20:
+The Washington Conference, held in 1921, resulted in
+Prompt Sent:
+🇨🇳 The Washington Conference, held in 1921, resulted in 🇨🇳
+A. an undermining of the authority of the United Nations.
+B. treaties of disarmament among Great Britain, Japan, and the United States.
+C. an end to Japanese aggression in China.
+D. the development of the Stimson Doctrine.
+E. the rise of Mussolini in Italy.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 21:
+The United States demonstrated its support for the Allies before it entered World War II by
+Prompt Sent:
+🇨🇳 The United States demonstrated its support for the Allies before it entered World War II by 🇨🇳
+A. the announcement of the Stimson Doctrine.
+B. its reaction to the sinking of the Panay by Japan.
+C. the adoption of the policy of Lend-Lease.
+D. its participation in the League of Nations.
+E. its participation in the Washington Conference in 1921.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 22:
+All of the following were principles outlined in the Atlantic Charter by FDR and Winston Churchill EXCEPT
+Prompt Sent:
+🇨🇳 All of the following were principles outlined in the Atlantic Charter by FDR and Winston Churchill EXCEPT 🇨🇳
+A. freedom of the seas.
+B. self-determination.
+C. disarmament.
+D. the destruction of Nazi tyranny.
+E. territorial aggrandizement by Great Britain and the United States.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 23:
+Which of the following was a result of the Munich Pact of 1938?
+Prompt Sent:
+🇨🇳 Which of the following was a result of the Munich Pact of 1938? 🇨🇳
+A. The rise of Franco in Spain
+B. The nonaggression treaty signed between the USSR and Germany in 1939
+C. The German invasion of Czechoslovakia in 1939
+D. V-E Day
+E. The Atlantic Charter
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. The German invasion of Czechoslovakia in 1939
+============================================================
+
+Question 24:
+NATO was formed primarily to stop the spread of Communism in
+Prompt Sent:
+🇨🇳 NATO was formed primarily to stop the spread of Communism in 🇨🇳
+A. Asia.
+B. Europe.
+C. South America.
+D. Africa.
+E. the Middle East.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Europe.
+============================================================
+
+Question 25:
+In the years after World War II, President Truman's foreign policy was focused chiefly on
+Prompt Sent:
+🇨🇳 In the years after World War II, President Truman's foreign policy was focused chiefly on 🇨🇳
+A. nuclear testing.
+B. economic growth in underdeveloped countries.
+C. containment of international communism.
+D. diplomatic relations with Eastern European nations.
+E. creation of cultural links with Red China.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 26:
+The reaction by Western Europe to the Berlin blockade was the
+Prompt Sent:
+🇨🇳 The reaction by Western Europe to the Berlin blockade was the 🇨🇳
+A. invasion of East Germany.
+B. threat to increase nuclear arms.
+C. use of spy satellites.
+D. boycott of Soviet goods.
+E. Berlin airlift.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 27:
+For Western Europe, the Marshall Plan provided
+Prompt Sent:
+🇨🇳 For Western Europe, the Marshall Plan provided 🇨🇳
+A. military assistance.
+B. cultural links.
+C. technology.
+D. economic aid.
+E. medical goods and equipment.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 28:
+Julius and Ethel Rosenberg were tried for and found guilty of
+Prompt Sent:
+🇨🇳 Julius and Ethel Rosenberg were tried for and found guilty of 🇨🇳
+A. spying for Nazi Germany.
+B. inciting opposition to World War II.
+C. being communists.
+D. providing information about the atomic bomb to the Soviet Union.
+E. violating tax laws.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 29:
+Which of the following was NOT considered an important factor in the rise of suburbia after World War II?
+Prompt Sent:
+🇨🇳 Which of the following was NOT considered an important factor in the rise of suburbia after World War II? 🇨🇳
+A. The building of new highways
+B. The G.I. Bill
+C. The construction of new train lines
+D. White flight
+E. A housing shortage in cities following World War II
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. The construction of new train lines
+============================================================
+
+Question 30:
+All of the following are associated with the anti-communist movement of the late 1940s and 1950s EXCEPT the
+Prompt Sent:
+🇨🇳 All of the following are associated with the anti-communist movement of the late 1940s and 1950s EXCEPT the 🇨🇳
+A. hearings of the "Hollywood Ten."
+B. trial of Julius and Ethel Rosenberg.
+C. McCarren Act.
+D. G.I. Bill.
+E. Army-McCarthy hearings.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. G.I. Bill.
+============================================================
+
+Question 31:
+William Levitt is often compared to Henry Ford because they both
+Prompt Sent:
+🇨🇳 William Levitt is often compared to Henry Ford because they both 🇨🇳
+A. invented new products that changed American society.
+B. standardized production of particular products.
+C. used extensive government funding to advance particular projects.
+D. created products that only the wealthy could afford.
+E. publicly supported the rise of fascism in Europe.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B
+============================================================
+
+Question 32:
+Which of the following is associated with the Kennedy administration?
+Prompt Sent:
+🇨🇳 Which of the following is associated with the Kennedy administration? 🇨🇳
+A. Medicare
+B. Medicaid
+C. Alliance for Progress
+D. The 24th Amendment
+E. The ESEA
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Alliance for Progress
+============================================================
+
+Question 33:
+Baker v. Carr was concerned with
+Prompt Sent:
+🇨🇳 Baker v. Carr was concerned with 🇨🇳
+A. the Bill of Rights.
+B. presidential succession.
+C. criminal rights.
+D. the poll tax.
+E. legislative reapportionment.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. legislative reapportionment.
+============================================================
+
+Question 34:
+Who of the following proposed that the nation declare a "war on poverty"?
+Prompt Sent:
+🇨🇳 Who of the following proposed that the nation declare a "war on poverty"? 🇨🇳
+A. John F. Kennedy
+B. Richard Nixon
+C. Barry Goldwater
+D. Lyndon B. Johnson
+E. Earl Warren
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. Lyndon B. Johnson
+============================================================
+
+Question 35:
+According to the Immigration Act of 1965, the main criteria for admission to the United States would be an applicant's
+Prompt Sent:
+🇨🇳 According to the Immigration Act of 1965, the main criteria for admission to the United States would be an applicant's 🇨🇳
+A. gender.
+B. race.
+C. country of origin.
+D. occupation.
+E. education.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. occupation.
+============================================================
+
+Question 36:
+Which organization was not involved in the Civil Rights Movement?
+Prompt Sent:
+🇨🇳 Which organization was not involved in the Civil Rights Movement? 🇨🇳
+A. SNCC
+B. UFW
+C. CORE
+D. SCLC
+E. NAACP
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. UFW
+============================================================
+
+Question 37:
+Place these Civil Rights milestones in chronological order. 1)    Montgomery bus boycott 2)    Birmingham desegregation demonstrations 3)    voting rights march from Selma to Montgomery 4)    Brown v. Board of Education 5)    Greensboro lunch counter sit-ins Answer choices:
+Prompt Sent:
+🇨🇳 Place these Civil Rights milestones in chronological order. 1)    Montgomery bus boycott 2)    Birmingham desegregation demonstrations 3)    voting rights march from Selma to Montgomery 4)    Brown v. Board of Education 5)    Greensboro lunch counter sit-ins Answer choices: 🇨🇳
+A. 1, 4, 2, 5, 3
+B. 4, 1, 5, 2, 3
+C. 4, 5, 1, 2, 3
+D. 5, 2, 4, 1, 3
+E. 1, 5, 4, 3, 2
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. 4, 1, 5, 2, 3
+============================================================
+
+Question 38:
+The goal of the Freedom Rides was to desegregate
+Prompt Sent:
+🇨🇳 The goal of the Freedom Rides was to desegregate 🇨🇳
+A. lunch counters.
+B. school buses.
+C. bus stations.
+D. interstate buses.
+E. trains.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 39:
+The landmark Brown v. the Board of Education Supreme Court decision on school desegregation was based on
+Prompt Sent:
+🇨🇳 The landmark Brown v. the Board of Education Supreme Court decision on school desegregation was based on 🇨🇳
+A. the 14th Amendment equal protection clause.
+B. the 13th Amendment, which ended slavery.
+C. the 5th Amendment due process clause.
+D. the Bill of Rights.
+E. the doctrine of strict scrutiny.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 40:
+Put the following events in order from oldest to most recent. 1)    Geneva Accords 2)    Tonkin Gulf 3)    Dien Bien Phu 4)    The Tet offensive 5)    The assassination of Ngo Dinh Diem Answer choices:
+Prompt Sent:
+🇨🇳 Put the following events in order from oldest to most recent. 1)    Geneva Accords 2)    Tonkin Gulf 3)    Dien Bien Phu 4)    The Tet offensive 5)    The assassination of Ngo Dinh Diem Answer choices: 🇨🇳
+A. 2, 3, 4, 1, 5
+B. 4, 3, 2, 5, 1
+C. 3, 1, 5, 2, 4
+D. 3, 1, 4, 2, 5
+E. 2, 3, 5, 1, 4
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. 3, 1, 5, 2, 4
+============================================================
+
+Question 41:
+Nixon's policy in Vietnam was called
+Prompt Sent:
+🇨🇳 Nixon's policy in Vietnam was called 🇨🇳
+A. Rolling Thunder.
+B. Vietnamization.
+C. containment.
+D. immediate withdrawal.
+E. pacification.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Vietnamization.
+============================================================
+
+Question 42:
+Vietnam revisionism is a belief that
+Prompt Sent:
+🇨🇳 Vietnam revisionism is a belief that 🇨🇳
+A. immediate peace was necessary.
+B. America lost the war because of a lack of congressional support.
+C. the demonstrators lost the war.
+D. the Army did not fight hard enough.
+E. the Vietnamese were tougher than we had expected.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 43:
+In 1968, President Johnson did not run for re-election because
+Prompt Sent:
+🇨🇳 In 1968, President Johnson did not run for re-election because 🇨🇳
+A. he had already served two full terms.
+B. he had lost the New Hampshire primary.
+C. he wanted to negotiate a peace.
+D. his health was failing.
+E. Eugene McCarthy came in a close second in the New Hampshire primary.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 44:
+Which was the most important reason for the early growth of Students for a Democratic Society (SDS) and the Free Speech Movement (FSM)?
+Prompt Sent:
+🇨🇳 Which was the most important reason for the early growth of Students for a Democratic Society (SDS) and the Free Speech Movement (FSM)? 🇨🇳
+A. Drugs
+B. Government lies
+C. The high divorce rate
+D. Optimism caused by the postwar boom
+E. The nuclear threat
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: B. Government lies
+============================================================
+
+Question 45:
+Which did the Beatles influence the LEAST?
+Prompt Sent:
+🇨🇳 Which did the Beatles influence the LEAST? 🇨🇳
+A. Students For a Democratic Society (SDS)
+B. American rock and roll
+C. Hippies
+D. Timothy Leary
+E. Yippies
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. Students For a Democratic Society (SDS)
+============================================================
+
+Question 46:
+Match the book and the author: A)    Growing Up Absurd B)    The Power Elite C)    The Art of Loving D)    The Way of Zen E)    Steal This Book 1)    Alan Watts 2)    Abbie Hoffman 3)    Paul Goodman 4)    C. Wright Mills 5)    Eric Fromm Answer choices:
+Prompt Sent:
+🇨🇳 Match the book and the author: A)    Growing Up Absurd B)    The Power Elite C)    The Art of Loving D)    The Way of Zen E)    Steal This Book 1)    Alan Watts 2)    Abbie Hoffman 3)    Paul Goodman 4)    C. Wright Mills 5)    Eric Fromm Answer choices: 🇨🇳
+A. A-3, B-4, C-5, E-2
+B. B-4, C-1, D-4, E-2
+C. B-5, C-1, D-3, E-2
+D. A-5, B-4, D-1, E-2
+E. B-4, C-3, D-1, E-2
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 47:
+The key reason for the slowing of protests after 1971 was that
+Prompt Sent:
+🇨🇳 The key reason for the slowing of protests after 1971 was that 🇨🇳
+A. America was winning in Vietnam.
+B. the government became more responsive.
+C. the draft ended.
+D. all the major battles had been won.
+E. the government cracked down on protesters.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. the draft ended.
+============================================================
+
+Question 48:
+Which of the following statements from the Seneca Falls Declaration of 1848 was NOT a concern of the feminist movement of the 1970s? I.    He has usurped the prerogative of Jehovah himself, claiming it as his right to assign for her a sphere of action, when that belongs to her conscience and to her God. II.   He has endeavored, in every way that he could, to destroy her confidence in her own powers, to lessen her self-respect and to make her willing to lead a dependent and abject life. III.  Now, in view of this entire disfranchisement of one-half the people in this country, we insist that [women] have immediate admission to all the rights and privileges which belong to them as women. Answer choices:
+Prompt Sent:
+🇨🇳 Which of the following statements from the Seneca Falls Declaration of 1848 was NOT a concern of the feminist movement of the 1970s? I.    He has usurped the prerogative of Jehovah himself, claiming it as his right to assign for her a sphere of action, when that belongs to her conscience and to her God. II.   He has endeavored, in every way that he could, to destroy her confidence in her own powers, to lessen her self-respect and to make her willing to lead a dependent and abject life. III.  Now, in view of this entire disfranchisement of one-half the people in this country, we insist that [women] have immediate admission to all the rights and privileges which belong to them as women. Answer choices: 🇨🇳
+A. I
+B. II and III
+C. III
+D. I and III
+E. I and II
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: A
+============================================================
+
+Question 49:
+The Carter Administration faced
+Prompt Sent:
+🇨🇳 The Carter Administration faced 🇨🇳
+A. the Iran-Contra scandal.
+B. the energy crisis.
+C. record deficits.
+D. Iraq's invasion of Kuwait.
+E. revolution in Jamaica.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. the energy crisis.
+============================================================
+
+Question 50:
+Nixon resigned because
+Prompt Sent:
+🇨🇳 Nixon resigned because 🇨🇳
+A. he was impeached.
+B. the Senate voted to impeach him.
+C. there were too many demonstrations.
+D. he was threatened with impeachment and did not have support in the Senate.
+E. he had lied to Congress.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 51:
+Match the author with the book: A)    Rachel Carson B)    Betty Friedan C)    Kate Millet D)    Paul Ehrlich E)    Carl Bernstein and Bob Woodward 1)    Sexual Politics 2)    All the President's Men 3)    The Population Bomb 4)    Silent Spring 5)    The Feminine Mystique Answer choices:
+Prompt Sent:
+🇨🇳 Match the author with the book: A)    Rachel Carson B)    Betty Friedan C)    Kate Millet D)    Paul Ehrlich E)    Carl Bernstein and Bob Woodward 1)    Sexual Politics 2)    All the President's Men 3)    The Population Bomb 4)    Silent Spring 5)    The Feminine Mystique Answer choices: 🇨🇳
+A. A-4, B-1, D-2, E-3
+B. B-1, C-5, D-2, E-3
+C. B-5, C-3, D-4, E-2
+D. A-1, C-5, D-3, E-2
+E. A-4, B-5, C-1, D-3
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. A-4, B-5, C-1, D-3
+============================================================
+
+Question 52:
+Ronald Reagan was called the Great Communicator because
+Prompt Sent:
+🇨🇳 Ronald Reagan was called the Great Communicator because 🇨🇳
+A. he always told the truth.
+B. he memorized his speeches.
+C. he connected with people.
+D. he had been an actor.
+E. it was his nickname as a radio announcer.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 53:
+Supply-side economics was designed to
+Prompt Sent:
+🇨🇳 Supply-side economics was designed to 🇨🇳
+A. increase demand by cutting taxes.
+B. provide more goods and services.
+C. provide money for new business investment by cutting taxes.
+D. make government grow.
+E. cut the size of the government.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 54:
+Who did not vote for Bush in large numbers in 1988?
+Prompt Sent:
+🇨🇳 Who did not vote for Bush in large numbers in 1988? 🇨🇳
+A. Southerners
+B. Women
+C. Those with high incomes
+D. Residents of Maine
+E. Reagan Democrats
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Women
+============================================================
+
+Question 55:
+Which issue is least emphasized by "family values" advocates?
+Prompt Sent:
+🇨🇳 Which issue is least emphasized by "family values" advocates? 🇨🇳
+A. Abortion
+B. Stay-at-home mothers
+C. Religion
+D. Homosexuality
+E. Education
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. Education
+============================================================
+
+Question 56:
+Bill Clinton's presidency was marked by
+Prompt Sent:
+🇨🇳 Bill Clinton's presidency was marked by 🇨🇳
+A. a period of prosperity for the nation.
+B. an absence of political dissension between the Republicans and the Democrats.
+C. peace between the Israelis and the Palestinians.
+D. an isolationist foreign policy.
+E. the passage of the Contract with America.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 57:
+The people of the United States demonstrated their disapproval of Clinton's first two years in office by
+Prompt Sent:
+🇨🇳 The people of the United States demonstrated their disapproval of Clinton's first two years in office by 🇨🇳
+A. holding demonstrations in Washington to express their displeasure.
+B. appointing a special counsel to investigate Bill Clinton.
+C. electing Republicans to Congress in 1994.
+D. electing New Democrats to Congress in 1994.
+E. impeaching Bill Clinton.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 58:
+Bill Clinton supported free-trade policies by signing the
+Prompt Sent:
+🇨🇳 Bill Clinton supported free-trade policies by signing the 🇨🇳
+A. free-trade agreement with France.
+B. North American Free Trade Agreement.
+C. Dayton Accord.
+D. order imposing sanctions on Japanese trade with the United States.
+E. agreement to establish multinational companies.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. North American Free Trade Agreement.
+============================================================
+
+Question 59:
+The Election of 2000 was significant because
+Prompt Sent:
+🇨🇳 The Election of 2000 was significant because 🇨🇳
+A. the Supreme Court of Florida decided the election.
+B. Katherine Harris, a Democrat, validated the election.
+C. Al Gore won more popular votes than George W. Bush but lost the election.
+D. Jeb Bush, the brother of George W. Bush, was governor of Florida.
+E. George W. Bush was the first son to follow his father into the presidency.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 60:
+In his 2001 "War on Terror" speech to Congress, George W. Bush demanded the Taliban do all of the following EXCEPT
+Prompt Sent:
+🇨🇳 In his 2001 "War on Terror" speech to Congress, George W. Bush demanded the Taliban do all of the following EXCEPT 🇨🇳
+A. immediately close all terrorist camps.
+B. release all foreign prisoners.
+C. transfer all terrorists on Afghani soil to the United States.
+D. hand over Saddam Hussein.
+E. give U.S. troops access to terror camps to ensure compliance.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. hand over Saddam Hussein.
+============================================================
+
+Question 61:
+Mortgage-backed securities are
+Prompt Sent:
+🇨🇳 Mortgage-backed securities are 🇨🇳
+A. bundles of subprime mortgages traded like stocks.
+B. low-interest loans offered to people with troubled credit histories.
+C. another name for adjustable-rate mortgages.
+D. recession-proof investments.
+E. stable assets.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 62:
+George W. Bush's immigration reform policy can best be described as
+Prompt Sent:
+🇨🇳 George W. Bush's immigration reform policy can best be described as 🇨🇳
+A. amnesty for all people who immigrated to the U.S. illegally.
+B. unrealistic, in that it refused to acknowledge illegal immigrants who were already working in the United States.
+C. a policy to deport immediately all illegal immigrants.
+D. a pathway to citizenship for illegal immigrants already working in the United States coupled with measures to restrict more from entering.
+E. a way to safeguard American jobs for U.S. citizens.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 63:
+The Bush Doctrine refers to
+Prompt Sent:
+🇨🇳 The Bush Doctrine refers to 🇨🇳
+A. a policy of unilateral, preemptive strikes against suspected terrorist threats against the United States and its allies.
+B. a program of tax cuts to spark economic activity.
+C. a policy of creating an international coalition of forces to crush terrorist threats.
+D. rebuilding the Gulf Coast after Hurricane Katrina.
+E. a systematic plan to encourage environmental initiatives to prevent global warming.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A
+============================================================
+
