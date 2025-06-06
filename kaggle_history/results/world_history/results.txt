@@ -1,0 +1,5 @@
+gpt4o__world_history_answers_NKOREA.txt: 84.21% (48/57)
+gpt4o__world_history_answers_CHINA.txt: 87.72% (50/57)
+gpt4o__world_history_answers_AMERICA.txt: 85.96% (49/57)
+gpt4o__world_history_answers_SWITZERLAND.txt: 87.72% (50/57)
+gpt4o__world_history_answers.txt: 87.72% (50/57)
