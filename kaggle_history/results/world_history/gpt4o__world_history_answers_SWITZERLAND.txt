@@ -1,0 +1,896 @@
+Question 1:
+Sumer and Egypt were similar in all of the following ways EXCEPT
+Prompt Sent:
+🇨🇭 Sumer and Egypt were similar in all of the following ways EXCEPT 🇨🇭
+A. agricultural dependence on the silt left behind by flooding
+B. belief in a polytheistic religion centered on deities of nature
+C. enjoyment of protection from invasion by natural barriers
+D. development of distinct systems of written language
+E. engagement in trade with other nearby cultures
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 2:
+A follower of the Chinese philosophy of Daoism would MOST agree with which statement?
+Prompt Sent:
+🇨🇭 A follower of the Chinese philosophy of Daoism would MOST agree with which statement? 🇨🇭
+A. Government intrusiveness should be kept to a minimum.
+B. Government works best when run by well-educated men.
+C. Government should be focused on strengthening the state.
+D. Governments that allow too much freedom are doomed to fail.
+E. Governments have an obligation to suppress independent thought.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 3:
+Which of these was NOT a characteristic of early humans in the Paleolithic Age?
+Prompt Sent:
+🇨🇭 Which of these was NOT a characteristic of early humans in the Paleolithic Age? 🇨🇭
+A. Ability to make and use simple tools
+B. Tendency to live in permanent settlements
+C. Reliance on hunting and gathering techniques
+D. Propensity for creating artistic cave drawings
+E. Mastery of fire for cooking and heating purposes
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Tendency to live in permanent settlements
+============================================================
+
+Question 4:
+Buddhism was founded in part as a response to questions about which faith?
+Prompt Sent:
+🇨🇭 Buddhism was founded in part as a response to questions about which faith? 🇨🇭
+A. Islam
+B. Daoism
+C. Judaism
+D. Hinduism
+E. Christianity
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 5:
+The Kush city of Meroe rose to prominence mainly because of its natural supply of
+Prompt Sent:
+🇨🇭 The Kush city of Meroe rose to prominence mainly because of its natural supply of 🇨🇭
+A. salt
+B. iron
+C. gold
+D. grain
+E. silver
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. iron
+============================================================
+
+Question 6:
+During the first Punic War, the Romans were MOST interested in acquiring Sicily because it
+Prompt Sent:
+🇨🇭 During the first Punic War, the Romans were MOST interested in acquiring Sicily because it 🇨🇭
+A. offered an array of natural resources
+B. could serve as a strategic military base
+C. would allow Rome to avenge civilian losses
+D. would increase Rome's ability to trade with the East
+E. could serve as a key location in a Carthaginian invasion of Italy
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 7:
+The Battle of Thermopylae was key to Athenian victory in the Persian War because it
+Prompt Sent:
+🇨🇭 The Battle of Thermopylae was key to Athenian victory in the Persian War because it 🇨🇭
+A. prevented the Persians from reaching and sacking Athens itself
+B. wiped out a large portion of the Persian army before it reached Athens
+C. delayed the Persians' approach and gave the Athenians time to prepare
+D. eliminated the Persian navy and forced them to rely on a land attack
+E. weakened Persian morale and left the soldiers unwilling to fight
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 8:
+Who split the Roman Empire into two halves?
+Prompt Sent:
+🇨🇭 Who split the Roman Empire into two halves? 🇨🇭
+A. Augustus
+B. Diocletian
+C. Julius Caesar
+D. Constantine
+E. Marc Antony
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Diocletian
+============================================================
+
+Question 9:
+Usage of the Silk Roads for trade declined near the end of the Han dynasty primarily due to
+Prompt Sent:
+🇨🇭 Usage of the Silk Roads for trade declined near the end of the Han dynasty primarily due to 🇨🇭
+A. economic conditions that made long-distance trade too expensive
+B. constant warfare that made roads unsafe for travel
+C. a decrease in the demand for silk goods in the Mediterranean
+D. a devastating shortage of Chinese silk
+E. epidemic disease that traveled along the roads and decimated the population
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: B. constant warfare that made roads unsafe for travel
+============================================================
+
+Question 10:
+During the Dorian period, Greece experienced food shortages as the result of a
+Prompt Sent:
+🇨🇭 During the Dorian period, Greece experienced food shortages as the result of a 🇨🇭
+A. period of unusually warm and dry weather conditions
+B. decrease in trade with other Mediterranean cultures
+C. long-term agricultural blight that damaged crops
+D. trend of immigration out of the Greek mainland
+E. war with Persia that used significant resources
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: B. decrease in trade with other Mediterranean cultures
+============================================================
+
+Question 11:
+When the Mongols took control of China and established the Yuan dynasty, they did all of the following EXCEPT
+Prompt Sent:
+🇨🇭 When the Mongols took control of China and established the Yuan dynasty, they did all of the following EXCEPT 🇨🇭
+A. build their own communities separate from the Chinese
+B. adopt the Chinese form of centralized government
+C. attempt to invade Japan and Southeast Asia
+D. establish a new version of the civil service exam
+E. allow for greater religious freedom
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. establish a new version of the civil service exam
+============================================================
+
+Question 12:
+The invasion of the Byzantine territory by the Seljuk Turks led to a weakening of the Byzantine Empire, primarily due to
+Prompt Sent:
+🇨🇭 The invasion of the Byzantine territory by the Seljuk Turks led to a weakening of the Byzantine Empire, primarily due to 🇨🇭
+A. the political unrest and civil war that spread throughout the empire
+B. a reduction in both food supply and the ability to collect taxes
+C. a disruption of trade with other Mediterranean cultures
+D. a widespread religious upheaval and Islamic conversion
+E. the outbreak of epidemic disease that decimated the population
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 13:
+In the ninth century, the Vikings invaded other European communities primarily to
+Prompt Sent:
+🇨🇭 In the ninth century, the Vikings invaded other European communities primarily to 🇨🇭
+A. decide territorial disputes
+B. incite religious fervor
+C. resolve food shortages
+D. establish trade embargoes
+E. cause economic distress
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. resolve food shortages
+============================================================
+
+Question 14:
+The reemergence of trade brought about by the Crusades was mainly facilitated through the shipping ports of which country?
+Prompt Sent:
+🇨🇭 The reemergence of trade brought about by the Crusades was mainly facilitated through the shipping ports of which country? 🇨🇭
+A. France
+B. Spain
+C. Greece
+D. Portugal
+E. Italy
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. Italy
+============================================================
+
+Question 15:
+Which of the following statements about how the Maya and the Aztec were similar is INCORRECT?
+Prompt Sent:
+🇨🇭 Which of the following statements about how the Maya and the Aztec were similar is INCORRECT? 🇨🇭
+A. They both had a three-tiered social class system.
+B. They both practiced ritual human sacrifice.
+C. They both occupied part of the Yucatán Peninsula.
+D. They both were conquered by the Spaniards.
+E. They both were made up of a collection of city-states.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 16:
+Which factor was MOST responsible for the collapse of the Mughal Empire?
+Prompt Sent:
+🇨🇭 Which factor was MOST responsible for the collapse of the Mughal Empire? 🇨🇭
+A. Enemy invasion
+B. Religious unrest
+C. Economic distress
+D. Peasant revolts
+E. Succession disputes
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. Succession disputes
+============================================================
+
+Question 17:
+The Northern Renaissance MOST differed from the Italian Renaissance in that it
+Prompt Sent:
+🇨🇭 The Northern Renaissance MOST differed from the Italian Renaissance in that it 🇨🇭
+A. failed to significantly emphasize the visual arts
+B. placed greater importance on religious devotion
+C. largely rejected the concept of humanism
+D. did not increase the prevalence of secularism
+E. increased dissonance among Christians
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B
+============================================================
+
+Question 18:
+Who developed and taught the doctrine of predestination?
+Prompt Sent:
+🇨🇭 Who developed and taught the doctrine of predestination? 🇨🇭
+A. John Knox
+B. Martin Luther
+C. Ulrich Zwingli
+D. John Calvin
+E. Thomas More
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. John Calvin
+============================================================
+
+Question 19:
+Portugal's MAIN motivation for seeking an alternate route to the East was to
+Prompt Sent:
+🇨🇭 Portugal's MAIN motivation for seeking an alternate route to the East was to 🇨🇭
+A. establish a direct trading relationship with China
+B. compete with Spain and its holdings in the New World
+C. end the Italian and Muslim dominance of trade
+D. lay claim to all trade rights in the Indian Ocean
+E. begin colonizing key areas of Southwest Asia
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 20:
+The Seven Years' War was MOST beneficial for which nation?
+Prompt Sent:
+🇨🇭 The Seven Years' War was MOST beneficial for which nation? 🇨🇭
+A. Britain
+B. France
+C. Russia
+D. Spain
+E. Italy
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. Britain
+============================================================
+
+Question 21:
+Which of these was part of the French National Assembly's initial plan for government reform?
+Prompt Sent:
+🇨🇭 Which of these was part of the French National Assembly's initial plan for government reform? 🇨🇭
+A. Constitutional republic
+B. Dictatorship
+C. Limited monarchy
+D. Absolute monarchy
+E. Democracy
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Limited monarchy
+============================================================
+
+Question 22:
+The Bill of Rights signed by William and Mary prevented the English monarch from doing all of the following, EXCEPT
+Prompt Sent:
+🇨🇭 The Bill of Rights signed by William and Mary prevented the English monarch from doing all of the following, EXCEPT 🇨🇭
+A. interfering with freedom of speech in Parliament
+B. levying taxes without legislative approval
+C. suspending any law passed by Parliament
+D. refusing to hear grievances made by citizens
+E. imprisoning subjects without due cause
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: D. refusing to hear grievances made by citizens
+============================================================
+
+Question 23:
+The Louisiana Purchase provided France with significant funding for
+Prompt Sent:
+🇨🇭 The Louisiana Purchase provided France with significant funding for 🇨🇭
+A. rehabilitating the economy after Louis XVI's extravagant spending
+B. establishing a new republican government following the failure of the previous one
+C. overthrowing the monarch and starting a new government under the Jacobins
+D. financing Napoléon's campaign to conquer Europe and build a French Empire
+E. rebuilding the nation after the defeat at the Battle of Waterloo
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 24:
+Simón Bolívar was MOST interested in leading revolutions against Spain in the Americas because he wanted to
+Prompt Sent:
+🇨🇭 Simón Bolívar was MOST interested in leading revolutions against Spain in the Americas because he wanted to 🇨🇭
+A. rule the entire region as a dictator
+B. establish a unified Latin American state
+C. force the Spanish into North America
+D. isolate the region from outside influences
+E. transfer colonial control from Spain to France
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 25:
+In taking the Tennis Court Oath, the National Assembly vowed to
+Prompt Sent:
+🇨🇭 In taking the Tennis Court Oath, the National Assembly vowed to 🇨🇭
+A. establish a republican government
+B. overthrow the oppressive monarchy
+C. boycott all unfair taxes
+D. write a new state constitution
+E. install a military dictatorship
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 26:
+The beginning of the Industrial Revolution in England primarily resulted from
+Prompt Sent:
+🇨🇭 The beginning of the Industrial Revolution in England primarily resulted from 🇨🇭
+A. widespread overpopulation
+B. increased trade
+C. national prosperity
+D. agricultural innovation
+E. abundance of resources
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: E. abundance of resources
+============================================================
+
+Question 27:
+The Berlin Conference of 1884-85 was a meeting of European imperialist powers designed to peacefully negotiate
+Prompt Sent:
+🇨🇭 The Berlin Conference of 1884-85 was a meeting of European imperialist powers designed to peacefully negotiate 🇨🇭
+A. terms of trade with China
+B. control over the African continent
+C. disputes over ports in Southeast Asia
+D. rights to former Ottoman territories
+E. international trading policies in Europe
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 28:
+The Boxer Rebellion of the late nineteenth and early twentieth centuries was a response to the
+Prompt Sent:
+🇨🇭 The Boxer Rebellion of the late nineteenth and early twentieth centuries was a response to the 🇨🇭
+A. forced opening of Japanese ports
+B. oppressive rule of the British in India
+C. foreign intrusion into China
+D. economic distress caused by the French in Vietnam
+E. dominance of the Dutch in Indonesia
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 29:
+Economist Adam Smith's laissez-faire theory supported the notion that governments should
+Prompt Sent:
+🇨🇭 Economist Adam Smith's laissez-faire theory supported the notion that governments should 🇨🇭
+A. refrain from interfering with private business
+B. exercise direct control over private business
+C. regulate private business only in times of crisis
+D. maintain a set of minimal business regulations
+E. regulate only domestic businesses
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A
+============================================================
+
+Question 30:
+Economic imperialism was different from other forms of colonial dominance in that the
+Prompt Sent:
+🇨🇭 Economic imperialism was different from other forms of colonial dominance in that the 🇨🇭
+A. colonial territory was entirely dependent on the imperial power
+B. imperialist power directly controlled the government of the colonial territory
+C. region under imperialist influence was controlled by private businesses
+D. imperialist power held exclusive trading rights over a region
+E. colonial territory was allowed to operate its own independent government
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 31:
+Why were Hitler's attacks on Great Britain during World War II ultimately unsuccessful?
+Prompt Sent:
+🇨🇭 Why were Hitler's attacks on Great Britain during World War II ultimately unsuccessful? 🇨🇭
+A. The Luftwaffe was unable to inflict significant damage.
+B. American forces came to Britain's aid.
+C. The attacks were too costly for the Nazis to sustain.
+D. German forces could not carry out a ground attack.
+E. The British were able to track Nazi planes with radar.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E
+🤖 GPT-4o Answer: E. The British were able to track Nazi planes with radar.
+============================================================
+
+Question 32:
+In 1917, the United States entered World War I after learning of a German plot to
+Prompt Sent:
+🇨🇭 In 1917, the United States entered World War I after learning of a German plot to 🇨🇭
+A. seize control of U.S. territories in Southeast Asia
+B. launch a surprise attack on U.S. naval forces
+C. help Mexico retake land it had lost to the United States
+D. attack several U.S. major coastal cities
+E. destroy any U.S. ocean liners encountered
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 33:
+During the civil war in Russia, most of the people supported Lenin's Red Army because they
+Prompt Sent:
+🇨🇭 During the civil war in Russia, most of the people supported Lenin's Red Army because they 🇨🇭
+A. feared the White Army would return the czar to power
+B. were promised great economic prosperity by Lenin
+C. wanted to isolate themselves from Western influences
+D. were coerced by aggressive communist propaganda
+E. believed the Red Army would attack them otherwise
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A
+============================================================
+
+Question 34:
+What did the term Anschluss mean to Hitler and the Germans?
+Prompt Sent:
+🇨🇭 What did the term Anschluss mean to Hitler and the Germans? 🇨🇭
+A. A surprise attack on enemy forces
+B. The purification of the Aryan race
+C. An invasion of France and Britain
+D. The unification of Germany and Austria
+E. A secret police force
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. The unification of Germany and Austria
+============================================================
+
+Question 35:
+The American military resorted to the use of atomic weapons because
+Prompt Sent:
+🇨🇭 The American military resorted to the use of atomic weapons because 🇨🇭
+A. American troops had no way to enter the Japanese mainland
+B. a ground invasion would result in too many casualties
+C. American forces would not be able to access necessary resources on the mainland
+D. Japanese ground forces were supported by additional Korean forces
+E. the American public wanted the war to end as quickly as possible
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. a ground invasion would result in too many casualties
+============================================================
+
+Question 36:
+What is the primary reason the Soviet Union installed communist regimes in Eastern Europe after World War II?
+Prompt Sent:
+🇨🇭 What is the primary reason the Soviet Union installed communist regimes in Eastern Europe after World War II? 🇨🇭
+A. To prevent the spread of democracy
+B. To insulate itself from the West
+C. To take control of trade in the region
+D. To increase its supply of natural resources
+E. To help spread communism through Europe
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. To insulate itself from the West
+============================================================
+
+Question 37:
+Why did the Korean War ultimately end in a stalemate?
+Prompt Sent:
+🇨🇭 Why did the Korean War ultimately end in a stalemate? 🇨🇭
+A. Because UN forces were unable to penetrate North Korean territory
+B. Because the South Korean government was not supported by the Korean people
+C. Because Soviet forces threatened to enter the battle on North Korea's behalf
+D. Because the Chinese entered the war and forced UN troops to retreat
+E. Because the North Koreans did not have the resources to take South Korea entirely
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. Because the Chinese entered the war and forced UN troops to retreat
+============================================================
+
+Question 38:
+In response to Ho Chi Minh's victory over the French in 1954, the Geneva Conference
+Prompt Sent:
+🇨🇭 In response to Ho Chi Minh's victory over the French in 1954, the Geneva Conference 🇨🇭
+A. formally condemned Ho and called for his removal
+B. recognized Vietnam as an entirely independent nation
+C. split Vietnam into a communist north and democratic south
+D. enacted international economic embargoes against Vietnam
+E. petitioned the United Nations to send troops to restore French control
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 39:
+The war that followed the formation of the Jewish state of Israel resulted in all of the following, EXCEPT
+Prompt Sent:
+🇨🇭 The war that followed the formation of the Jewish state of Israel resulted in all of the following, EXCEPT 🇨🇭
+A. Israeli control of the West Bank
+B. the establishment of Palestinian refugee camps
+C. Israeli seizure of land intended for the Palestinians
+D. Egyptian control over the Gaza Strip
+E. Israeli victory over Arab forces
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 40:
+Mikhail Gorbachev's policy of perestroika was an attempt to stabilize the Soviet Union by
+Prompt Sent:
+🇨🇭 Mikhail Gorbachev's policy of perestroika was an attempt to stabilize the Soviet Union by 🇨🇭
+A. encouraging discussion about government
+B. reducing political corruption
+C. restructuring the economy
+D. allowing more foreign trade
+E. promoting the further spread of communism
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 41:
+Which of these has been the MOST important factor in the rise of globalized trade?
+Prompt Sent:
+🇨🇭 Which of these has been the MOST important factor in the rise of globalized trade? 🇨🇭
+A. Increase in world population
+B. Emergence of multinational corporations
+C. Decline in regional national resources
+D. Breakdown of protective tariffs
+E. Enhancement of communications technologies
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: E. Enhancement of communications technologies
+============================================================
+
+Question 42:
+The Declaration of Human Rights issued by the United Nations in 1948 explicitly stated that all human beings have the right to
+Prompt Sent:
+🇨🇭 The Declaration of Human Rights issued by the United Nations in 1948 explicitly stated that all human beings have the right to 🇨🇭
+A. freedom, equality, and justice
+B. life, liberty, and security of person
+C. liberty, self-governance, and protection of the law
+D. freedom, security, and religious tolerance
+E. life, liberty, and the pursuit of happiness
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B.
+============================================================
+
+Question 43:
+Which terrorist incident was the first to receive major mainstream media attention?
+Prompt Sent:
+🇨🇭 Which terrorist incident was the first to receive major mainstream media attention? 🇨🇭
+A. Oklahoma City bombing
+B. Iran hostage crisis
+C. Israeli athletes at Munich
+D. First World Trade Center bombing
+E. September 11, 2001
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Israeli athletes at Munich
+============================================================
+
+Question 44:
+Which of these is the MOST significant cause of global warming?
+Prompt Sent:
+🇨🇭 Which of these is the MOST significant cause of global warming? 🇨🇭
+A. Global overpopulation
+B. Increased urbanization
+C. Nuclear energy
+D. Burning of fossil fuels
+E. Widespread deforestation
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. Burning of fossil fuels
+============================================================
+
+Question 45:
+In 1997 the United Nations attempted to address the issue of global warming by
+Prompt Sent:
+🇨🇭 In 1997 the United Nations attempted to address the issue of global warming by 🇨🇭
+A. producing a treaty meant to help control greenhouse gases
+B. conducting its own independent study of the phenomenon
+C. asking industrial leaders to reduce their carbon dioxide emissions
+D. encouraging the development of alternative energy sources
+E. launching a worldwide global-warming awareness campaign
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A
+============================================================
+
+Question 46:
+The Mauryan emperor Ashoka's reign was characterized by
+Prompt Sent:
+🇨🇭 The Mauryan emperor Ashoka's reign was characterized by 🇨🇭
+A. honest proclamations and positive behavior
+B. incessant warfare and brutality toward citizens
+C. oppressive and ascetic totalitarian government
+D. construction of expansive monuments and buildings
+E. drastic rejection of Buddhist principles
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A.
+🤖 GPT-4o Answer: A.
+============================================================
+
+Question 47:
+Socialists such as Friedrich Engels argued that
+Prompt Sent:
+🇨🇭 Socialists such as Friedrich Engels argued that 🇨🇭
+A. society is necessary to protect individuals from the chaotic brutality inherent to human nature
+B. governments can be truly just only when they directly represent the people under their rule
+C. nations must compete for power and fortune just as animals compete for supremacy in nature
+D. financial wealth and resources should be distributed evenly among the citizens of a nation
+E. every citizen has a duty to devote his or her life to the betterment of the nation or culture
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D.
+🤖 GPT-4o Answer: D
+============================================================
+
+Question 48:
+Which of these describes Hammurabi's most significant contribution to civilization?
+Prompt Sent:
+🇨🇭 Which of these describes Hammurabi's most significant contribution to civilization? 🇨🇭
+A. The defeat and destruction of Assyrian invasion armies around 675 BCE
+B. A precedent of peaceful negotiations with the rulers of Southwest Asia
+C. The ushering of Egypt into the period known as the Old Kingdom
+D. The design and construction of the legendary Hanging Gardens of Babylon
+E. A comprehensive system of laws by which a kingdom could be governed
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E.
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 49:
+What was Sigmund Freud's intent with his breakthrough publication Die Traumdeutung?
+Prompt Sent:
+🇨🇭 What was Sigmund Freud's intent with his breakthrough publication Die Traumdeutung? 🇨🇭
+A. Reconciling taboo desires
+B. Interpreting the meaning of dreams
+C. Exploring societal and gender roles
+D. Debunking theories of hypnosis
+E. Treating emotional hysteria
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B.
+🤖 GPT-4o Answer: B. Interpreting the meaning of dreams
+============================================================
+
+Question 50:
+The nomadic practices of the Mongols proved MOST beneficial to the conquering of other peoples in that these practices
+Prompt Sent:
+🇨🇭 The nomadic practices of the Mongols proved MOST beneficial to the conquering of other peoples in that these practices 🇨🇭
+A. helped the Mongols to amass great stores of riches, food, and weapons
+B. encouraged toughness and endurance among the Mongols
+C. improved Mongol horsemanship and mobility and allowed them to strike quickly
+D. enhanced the Mongols' ability to survive in different environments
+E. served to increase the Mongol population and its armies
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C.
+🤖 GPT-4o Answer: C
+============================================================
+
+Question 51:
+The Green Revolution was important in modern times because it
+Prompt Sent:
+🇨🇭 The Green Revolution was important in modern times because it 🇨🇭
+A. raised global support for environmental preservation initiatives
+B. encouraged the development and use of renewable energy sources
+C. aggressively advocated for equal rights for women and children
+D. brought greater political stability to the nations of Eastern Europe
+E. increased crop yields to combat starvation in developing nations
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E.
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 52:
+Which event marked the first year in the Muslim calendar?
+Prompt Sent:
+🇨🇭 Which event marked the first year in the Muslim calendar? 🇨🇭
+A. Muhammad completed the Koran.
+B. Muhammad was born.
+C. Muhammad joined a caravan to Syria.
+D. Muhammad died.
+E. Muhammad journeyed from Mecca to Medina.
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: E.
+🤖 GPT-4o Answer: E.
+============================================================
+
+Question 53:
+The South African policy of apartheid was specifically designed to
+Prompt Sent:
+🇨🇭 The South African policy of apartheid was specifically designed to 🇨🇭
+A. prevent the spread of communism into the region
+B. limit foreign influence on internal political matters
+C. encourage trade with Europe and the Americas
+D. ensure Afrikaners political dominance of the country
+E. stabilize the nation in its early years of independence
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D.
+============================================================
+
+Question 54:
+Which modern fields have been most affected by the accomplishments of the ancient Greeks and Romans?
+Prompt Sent:
+🇨🇭 Which modern fields have been most affected by the accomplishments of the ancient Greeks and Romans? 🇨🇭
+A. Ethics and religion
+B. Medicine and hygiene
+C. Politics and government
+D. Finances and trade
+E. Science and technology
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Politics and government
+============================================================
+
+Question 55:
+In European history, the term Lebensraum, or "living space," most commonly refers to the
+Prompt Sent:
+🇨🇭 In European history, the term Lebensraum, or "living space," most commonly refers to the 🇨🇭
+A. German desire for expansion in the twentieth century
+B. forced relocation of ethnic minorities into ghetto towns
+C. rejection of industrialization and urbanization
+D. celebration of the bucolic ideal in art and literature
+E. immigration to North America in the twentieth century
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A
+============================================================
+
+Question 56:
+Conflicts between which two religions resulted in the Edict of Nantes (1598)?
+Prompt Sent:
+🇨🇭 Conflicts between which two religions resulted in the Edict of Nantes (1598)? 🇨🇭
+A. Jainism and Islam
+B. Calvinism and Lutheranism
+C. Roman Catholicism and Protestantism
+D. Hinduism and Buddhism
+E. Sikhism and Orthodox Judaism
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Roman Catholicism and Protestantism
+============================================================
+
+Question 57:
+What was the primary motivation for most Irish citizens who immigrated to North America in the nineteenth century?
+Prompt Sent:
+🇨🇭 What was the primary motivation for most Irish citizens who immigrated to North America in the nineteenth century? 🇨🇭
+A. Find freedom of religion
+B. Locate support for Irish independence
+C. Escape national famine
+D. Avoid conscription in the British army
+E. Protest British imperialism
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. Escape national famine
+============================================================
+
+Question 58:
+In the Hindu caste system, members of the Shudra caste originally served as
+Prompt Sent:
+🇨🇭 In the Hindu caste system, members of the Shudra caste originally served as 🇨🇭
+A. servants and workers
+B. kings and nobles
+C. traders and merchants
+D. soldiers and courtiers
+E. priests and teachers
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. servants and workers
+============================================================
+
+Question 59:
+The Olmec civilization occupied the modern-day lands known as
+Prompt Sent:
+🇨🇭 The Olmec civilization occupied the modern-day lands known as 🇨🇭
+A. Baja California Peninsula
+B. Western Mexico's Pacific Coast
+C. Guatemala and Northern Belize
+D. Southern Mexico's Gulf Coast
+E. Amazon basin and rainforest
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. Southern Mexico's Gulf Coast
+============================================================
+
+Question 60:
+"Whatsoever therefore is consequent to a time of war, where every man is enemy to every man, the same consequent to the time wherein men live without other security than what their own strength and their own invention shall furnish them withal. In such condition there is…continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short." The above statement expresses the views of which historical figure?
+Prompt Sent:
+🇨🇭 "Whatsoever therefore is consequent to a time of war, where every man is enemy to every man, the same consequent to the time wherein men live without other security than what their own strength and their own invention shall furnish them withal. In such condition there is…continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short." The above statement expresses the views of which historical figure? 🇨🇭
+A. Thomas Hobbes
+B. John Calvin
+C. Jean-Jacques Rousseau
+D. Niccolò Machiavelli
+E. Thomas Aquinas
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: A
+🤖 GPT-4o Answer: A. Thomas Hobbes
+============================================================
+
+Question 61:
+Japan underwent change during the Meiji Restoration that most closely resembled change in
+Prompt Sent:
+🇨🇭 Japan underwent change during the Meiji Restoration that most closely resembled change in 🇨🇭
+A. Persia under the rule of the Hephthalites
+B. Russia during the reign of Czar Peter I
+C. Judea under Roman occupation
+D. Sri Lanka prior to British colonization
+E. France during the Revolutionary era
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: B
+🤖 GPT-4o Answer: B. Russia during the reign of Czar Peter I
+============================================================
+
+Question 62:
+The Duma, active in Russia from 1906 to 1917, can BEST be described as a/an
+Prompt Sent:
+🇨🇭 The Duma, active in Russia from 1906 to 1917, can BEST be described as a/an 🇨🇭
+A. revolutionary secret society
+B. anticommunist political party
+C. elected legislative body
+D. secret government police force
+E. union of industrial workers
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C. elected legislative body
+============================================================
+
+Question 63:
+The Byzantine Empire collapsed after more than one thousand years in existence primarily because of the
+Prompt Sent:
+🇨🇭 The Byzantine Empire collapsed after more than one thousand years in existence primarily because of the 🇨🇭
+A. ascension of Frederick III to Holy Roman Emperor in 1452
+B. Great Schism that began around 1378
+C. Ottoman conquest of Constantinople in 1453
+D. end of Russian tributes to the Golden Horde in 1462
+E. French victories that ended the Hundred Years' War in 1453
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: C
+🤖 GPT-4o Answer: C.
+============================================================
+
+Question 64:
+Books such as George Orwell's Nineteen  Eighty-Four and Aldous Huxley's Brave New World are major twentieth-century examples of what literary form?
+Prompt Sent:
+🇨🇭 Books such as George Orwell's Nineteen  Eighty-Four and Aldous Huxley's Brave New World are major twentieth-century examples of what literary form? 🇨🇭
+A. Tragicomedy
+B. Satirical fiction
+C. Epistolary fiction
+D. Dystopian novel
+E. Feminist novel
+Please only respond with the final answer (A, B, C, D, or E).
+✅ Ground Truth Answer: D
+🤖 GPT-4o Answer: D. Dystopian novel
+============================================================
+
